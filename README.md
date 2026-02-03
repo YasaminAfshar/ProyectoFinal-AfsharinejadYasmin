@@ -51,5 +51,3 @@ Todas las páginas fueron creadas para que sean Responsive, adaptables a todas l
 
 ==> [Deployment o Pages de Github](https://yasaminafshar.github.io/ProyectoFinal-AfsharinejadYasmin/ "Deployment o Pages de Github")
 
-==> [Página subida al servidor](https://newhairrecovery.000webhostapp.com/ "Página subida al servidor")
-
